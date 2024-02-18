@@ -1,0 +1,35 @@
+body {
+  background-color: brown;
+  color: whitesmoke;
+  position: relative;
+}
+
+p {
+  color: whitesmoke;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.loginInputs {
+  text-align: center;
+}
+
+.userContainer {
+  position: relative;
+  width: 500px;
+  margin: auto;
+}
+
+.list-group-item {
+  color: white;
+}
+
+.errorAlert {
+  margin-top: 30px;
+  font-size: 16px;
+  text-align: center;
+}
